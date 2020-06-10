@@ -1,0 +1,12 @@
+.elipse {
+  position: absolute;
+  width: 280px;
+  height: 280px;
+  left: 20px;
+  top: 1472px;
+
+  border: 0.5px solid #A07B50;
+  box-sizing: border-box;
+  background-color: transparent;
+  border-radius: 50%;
+}
